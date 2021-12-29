@@ -1,4 +1,4 @@
-# Uber_sentiment_analysis
+# A_sentiment_analysis
 A Sentiment Analysis of Uber’s Customer Reviews: A deep dive analysis
 Sentiment analysis of social media reviews are mostly done at the basic level using machine learning and algorithms which only scratches the surface.  However, this report is based on a thorough analysis of Twitter reviews on Uber.  
 Excel Power Query has been used for text analysis. The text mining part included random sampling to mitigate bias, cleaning and extracting comments with text length of equal or less than 400 letters.  A dataset with 250 comments was then prepared for sentiment analysis.    Power Query was also used to conduct a word count to find the most mentioned words and related key words.  The top 5 most mentioned words are: Service, Customer, Driver, Price, Safety.  As such, the dataset has been categorized into five categories:
